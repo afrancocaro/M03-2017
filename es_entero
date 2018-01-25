@@ -1,0 +1,7 @@
+#! /usr//bin/python
+# -*-coding: utf-8*-
+
+divisor=input("Introduce un divisor:")
+dividendo=input("Introduce el dividendo:")
+str(divisor//str(dividendo == resultado 
+print resultado
