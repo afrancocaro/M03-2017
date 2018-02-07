@@ -1,3 +1,6 @@
+#!/usr/bin/python
+# -*-coding: utf-8-*-
+
 numero = int(input("Escriba un número entero mayor que 1: "))
 while numero <= 1:
     numero = int(input(str(numero) + " no es mayor que 1. Inténtelo de nuevo: "))
